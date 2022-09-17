@@ -7,20 +7,37 @@ body {background-color: #2C3333;
       border-width: 4px;
       border-top-style: dotted;
       width: 30%;
+      font-family: 'Pacifico', cursive;
+      font-family: 'Roboto Condensed', sans-serif;
       }
-      h1,h2,h3  {
+      h1 {
         color: #A5C9CA;
+        font-family: 'Roboto Condensed', sans-serif;
+        
+        font-size: 500%;
+        
+      }
+      h2,h3 {
+        color: #A5C9CA;
+        font-family: 'Roboto Condensed', sans-serif;
+        font-size: 400%;
+        
       }
 
 table { 
   color: #E7F6F2;
+  font-size: 250%;
+  
+  
 }
 a { 
   color: #E7F6F2;
 }
 p { 
   color: #A5C9CA;
-  font-size: 150%;
+  
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 250%;
 }
 div {
   
