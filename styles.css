@@ -1,4 +1,5 @@
-body {background-color: #2C3333;}
+body {background-color: #2C3333;
+      width: 100%;}
       hr {
       
       border-style: none;
@@ -16,4 +17,13 @@ table {
 }
 a { 
   color: #E7F6F2;
+}
+p { 
+  color: #A5C9CA;
+  font-size: 150%;
+}
+div {
+  background-color: #E7F6F2;
+  width: 100%;
+  padding: 15px;
 }
